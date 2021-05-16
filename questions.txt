@@ -1,0 +1,20 @@
+Parodykite, kur tikrinsite alyvos lygį variklyje.
+Paaiškinkite, kaip tikrinsite, ar alyvos lygis variklyje yra pakankamas.
+Parodykite arba paaiškinkite, kaip tikrinsite, ar veikia vairo stiprintuvas.
+Parodykite, kur tikrinsite skysčio lygį variklio aušinimo sistemoje.
+Paaiškinkite, kaip tikrinsite, ar aušinimo skysčio lygis yra pakankamas.
+Paaiškinkite, kaip tikrinsite, ar veikia stovėjimo stabdys.
+Parodykite, kur yra langų plovimo skysčio rezervuaras (talpa).
+Paaiškinkite, kaip tikrinsite langų plovimo skysčio lygį.
+Parodykite, kaip tikrinsite, ar veikia įspėjamasis garso signalas.
+Parodykite, kur yra stabdžių skysčio rezervuaras (talpa).
+Paaiškinkite, kaip tikrinsite, ar stabdžių skysčio lygis yra pakankamas, kad saugiai važiuotumėte.
+Parodykite, kaip tikrinsite, ar veikia posūkių signalai.
+Paaiškinkite, kaip patikrinsite, ar veikia stabdžių šviesos signalai.
+Paaiškinkite, kaip tikrinsite, ar veikia darbinis stabdys.
+Parodykite, kaip tikrinsite, ar veikia visi žibintai.
+Paaiškinkite, kur ieškosite informacijos apie rekomenduojamą oro slėgį padangose.
+Paaiškinkite, kaip tikrinsite oro slėgį padangose.
+Paaiškinkite, kaip tikrinsite, ar padangų protektoriaus rašto gylio pakanka, kad saugiai važiuotumėte.
+Paaiškinkite, kaip tikrinsite, ar bendra padangų būklė tinkama saugiai važiuoti.
+Parodykite, kaip tikrinsite, ar veikia avarinė šviesos signalizacija.
