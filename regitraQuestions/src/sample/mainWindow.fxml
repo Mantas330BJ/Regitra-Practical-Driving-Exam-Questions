@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.web.WebView?>
+
+<Pane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="832.0" prefWidth="1085.0" xmlns="http://javafx.com/javafx/15.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.Controller">
+   <children>
+      <Label fx:id="questionLabel" layoutX="200.0" layoutY="60.0" prefHeight="20.0" prefWidth="660.0">
+         <font>
+            <Font size="14.0" />
+         </font></Label>
+      <Button fx:id="answerButton" layoutX="374.0" layoutY="650.0" mnemonicParsing="false" onAction="#showAnswer" prefHeight="57.0" prefWidth="115.0" text="Rodyti atsakymą" />
+      <WebView fx:id="screen" layoutX="75.0" layoutY="93.0" prefHeight="495.0" prefWidth="962.0" />
+      <Button fx:id="correctAnswerButton" layoutX="324.0" layoutY="745.0" mnemonicParsing="false" onAction="#correctAnswer" prefHeight="47.0" prefWidth="188.0" text="Sumažinti klausimo prioritetą" />
+      <Button fx:id="wrongAnswerButton" layoutX="543.0" layoutY="745.0" mnemonicParsing="false" onAction="#wrongAnswer" prefHeight="47.0" prefWidth="205.0" text="Padidinti klausimo prioritetą" />
+      <Button fx:id="newQuestionButton" layoutX="571.0" layoutY="650.0" mnemonicParsing="false" onAction="#nextQuestion" prefHeight="57.0" prefWidth="123.0" text="Kitas klausimas" />
+   </children>
+</Pane>
